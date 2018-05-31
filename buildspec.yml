@@ -13,4 +13,4 @@ phases:
       - mvn install
   post_build:
     commands:
-      - echo Build completes on `date`
+      - echo Build completed on `date`
